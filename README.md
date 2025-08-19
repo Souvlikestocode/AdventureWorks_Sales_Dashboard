@@ -23,7 +23,7 @@ Product Insights — Category- and SKU-level performance, including return rates
 Customer Insights — Behaviour, loyalty, and demographics for better targeting.
 
 
-## Key Insights (from this build)
+## Key Insights 
 
 Top Region: United States of America — 8,700 orders, 2.12% return rate.
 
